@@ -22,12 +22,13 @@
 - [Get started](#get-started)
   - [Running](#running)
 - [Language](#tech)
+- [complexity](#comp)
 - [Screenshots](#Screenshots)
 - [Contributors](#Contributors)
 
 ## 📙 About <a name = "about"></a>
 
-- GUI program that plots arbitrary user-entered function.
+- Command line program that flatten a 3D matrix to be stored in a 1D vector.
 
 ## 🏁 Getting Started <a name = "get-started"></a>
 
@@ -64,6 +65,10 @@ out
 ## 💻 Built Using <a name = "tech"></a>
 
 - **C++**
+
+## Complexity <a name = "comp"></a>
+- The complexity of the indexing from i,j,k to y is **O(1)**
+- The complexity of looping through the 3D vector is **O(n\*m\*p)** = **O(N)** where N is the number of elements 
 
 ## 📷 Demo Screenshots <a name = "Screenshots"></a>
 
