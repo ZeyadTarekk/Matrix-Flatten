@@ -56,7 +56,7 @@ $ cd Matrix-Flatten
 ```sh
 g++ Source.cpp -o out
 ```
-1. **_Running the program_**
+2. **_Running the program_**
 
 ```sh
 out
