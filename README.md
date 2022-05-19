@@ -25,6 +25,7 @@
 - [complexity](#comp)
 - [Screenshots](#Screenshots)
 - [Contributors](#Contributors)
+- [License](#license)
 
 ## 📙 About <a name = "about"></a>
 
@@ -93,3 +94,7 @@ out
     
   </tr>
  </table>
+
+ ## License <a name = "license"></a>
+
+> This software is licensed under MIT License, See [License](https://github.com/ZeyadTarekk/Matrix-Flatten/blob/main/LICENSE) for more information ©ZeyadTarekk.
